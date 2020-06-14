@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E6E6">
+
+    <ImageView
+        android:id="@+id/imgImage"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="#111"
+        android:scaleType="centerCrop"/>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="220dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:cardCornerRadius="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="15dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20sp"
+            android:paddingBottom="20dp">
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bệnh viện Trung ương HCM"
+                android:textSize="20sp"
+                android:textColor="#111"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/txtPosition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Địa chỉ: Ung Văn Khiêm, Bình thạnh, HCM"
+                android:textColor="#111"/>
+            <TextView
+                android:id="@+id/txtHotline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hotline: 0843269991"
+                android:textColor="#111"/>
+            <TextView
+                android:id="@+id/txtWorkTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Giờ làm việc: 08:00 - 19:00"
+                android:textColor="#111"/>
+           <Button
+               android:layout_width="match_parent"
+               android:layout_height="40dp"
+               android:text="Đặt Lịch Khám"
+               android:textColor="#fff"
+               android:textStyle="bold"
+               android:gravity="center"
+               android:background="@drawable/ic_custom_2"
+               android:layout_marginTop="20sp"
+               android:onClick="onClickSchedule"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

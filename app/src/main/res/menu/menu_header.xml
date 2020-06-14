@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title=""
+        app:showAsAction="always">
+        <menu >
+            <item
+                android:onClick="onClickUpdateFile"
+                android:title="Cập nhật hồ sơ"
+                android:icon="@drawable/ic_portfolio_64dp"/>
+            <item
+                android:onClick="onClickMedicalBill"
+                android:title="Phiếu khám bệnh"
+                android:icon="@drawable/ic_medical_bill_64dp"/>
+        </menu>
+    </item>
+    <item
+        android:onClick="onClickLogout"
+        android:title="Đăng xuất"
+        android:icon="@drawable/ic_logout_64dp"/>
+</menu>

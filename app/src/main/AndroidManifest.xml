@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.doan.khambacsi">
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:name=".config.AppConfig"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo_64dp"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_logo_64dp"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".view.UpdateProfileActivity"></activity>
+        <activity android:name=".view.Phieukhambenh" />
+        <activity android:name=".view.DatlichhenActivity" />
+        <activity android:name=".view.BenhvienActivity" />
+        <activity android:name=".view.RegisterActivity" />
+        <activity android:name=".view.MainActivity" />
+        <activity android:name=".view.XacthucActivity" />
+        <activity android:name=".view.LoginActivity" />
+        <activity android:name=".view.ManhinhchaoActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

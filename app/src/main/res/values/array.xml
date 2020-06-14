@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_doctor">
+        <item >Bác sĩ Nguyễn Thanh Liêm</item>
+        <item >Bác sĩ Đỗ Doãn Lợi</item>
+        <item >Bác sĩ Phạm Nhật An</item>
+        <item >Dược sĩ Phan Quỳnh Lan</item>
+        <item >Bác sĩ Nguyễn Công Nghĩa</item>
+        <item >Bác sĩ Trần Lê Linh Phương</item>
+        <item >Bác sĩ Nguyễn Tuyết Mai</item>
+        <item >Bác sĩ Trần Thanh Cảng</item>
+        <item >Bác sĩ Tôn Thất Trí Dũng</item>
+        <item >Bác sĩ Đoàn Thị Hồng Hạnh</item>
+        <item >Bác sĩ Huỳnh Thoại Loan</item>
+        <item >Bác sĩ Nguyễn Thị Hoàn</item>
+        <item >Bác sĩ Tô Minh Hương</item>
+        <item >Bác sĩ Phạm Xuân Hùng</item>
+        <item >Bác sĩ Trần Như Tú</item>
+    </string-array>
+    <string-array name="array_schedule">
+        <item >Tầng 1, Phòng 1</item>
+        <item >Tầng 1, Phòng 2</item>
+        <item >Tầng 1, Phòng 3</item>
+        <item >Tầng 1, Phòng 4</item>
+        <item >Tầng 1, Phòng 5</item>
+        <item >Tầng 1, Phòng 6</item>
+        <item >Tầng 1, Phòng 7</item>
+        <item >Tầng 1, Phòng 8</item>
+        <item >Tầng 1, Phòng 9</item>
+        <item >Tầng 1, Phòng 10</item>
+        <item >Tầng 1, Phòng 11</item>
+        <item >Tầng 1, Phòng 12</item>
+        <item >Tầng 1, Phòng 13</item>
+        <item >Tầng 1, Phòng 14</item>
+        <item >Tầng 1, Phòng 15</item>
+        <item >Tầng 1, Phòng 16</item>
+        <item >Tầng 1, Phòng 17</item>
+        <item >Tầng 1, Phòng 18</item>
+        <item >Tầng 1, Phòng 19</item>
+        <item >Tầng 1, Phòng 20</item>
+        <item >Tầng 1, Phòng 21</item>
+        <item >Tầng 1, Phòng 22</item>
+        <item >Tầng 1, Phòng 23</item>
+        <item >Tầng 1, Phòng 24</item>
+        <item >Tầng 1, Phòng 25</item>
+        <item >Tầng 1, Phòng 26</item>
+        <item >Tầng 1, Phòng 27</item>
+        <item >Tầng 1, Phòng 28</item>
+        <item >Tầng 1, Phòng 29</item>
+        <item >Tầng 1, Phòng 30</item>
+        <item >Tầng 2, Phòng 1</item>
+        <item >Tầng 2, Phòng 2</item>
+        <item >Tầng 2, Phòng 3</item>
+        <item >Tầng 2, Phòng 4</item>
+        <item >Tầng 2, Phòng 5</item>
+        <item >Tầng 2, Phòng 6</item>
+        <item >Tầng 2, Phòng 7</item>
+        <item >Tầng 2, Phòng 8</item>
+        <item >Tầng 2, Phòng 9</item>
+        <item >Tầng 2, Phòng 10</item>
+        <item >Tầng 2, Phòng 11</item>
+        <item >Tầng 2, Phòng 12</item>
+        <item >Tầng 2, Phòng 13</item>
+        <item >Tầng 2, Phòng 14</item>
+        <item >Tầng 2, Phòng 15</item>
+        <item >Tầng 2, Phòng 16</item>
+        <item >Tầng 2, Phòng 17</item>
+        <item >Tầng 2, Phòng 18</item>
+        <item >Tầng 2, Phòng 19</item>
+        <item >Tầng 2, Phòng 20</item>
+        <item >Tầng 2, Phòng 21</item>
+        <item >Tầng 2, Phòng 22</item>
+        <item >Tầng 2, Phòng 23</item>
+        <item >Tầng 2, Phòng 24</item>
+        <item >Tầng 2, Phòng 25</item>
+        <item >Tầng 2, Phòng 26</item>
+        <item >Tầng 2, Phòng 27</item>
+        <item >Tầng 2, Phòng 28</item>
+        <item >Tầng 2, Phòng 29</item>
+        <item >Tầng 2, Phòng 30</item>
+        <item >Tầng 3, Phòng 1</item>
+        <item >Tầng 3, Phòng 2</item>
+        <item >Tầng 3, Phòng 3</item>
+        <item >Tầng 3, Phòng 4</item>
+        <item >Tầng 3, Phòng 5</item>
+        <item >Tầng 3, Phòng 6</item>
+        <item >Tầng 3, Phòng 7</item>
+        <item >Tầng 3, Phòng 8</item>
+        <item >Tầng 3, Phòng 9</item>
+        <item >Tầng 3, Phòng 10</item>
+        <item >Tầng 3, Phòng 11</item>
+        <item >Tầng 3, Phòng 12</item>
+        <item >Tầng 3, Phòng 13</item>
+        <item >Tầng 3, Phòng 14</item>
+        <item >Tầng 3, Phòng 15</item>
+        <item >Tầng 3, Phòng 16</item>
+        <item >Tầng 3, Phòng 17</item>
+        <item >Tầng 3, Phòng 18</item>
+        <item >Tầng 3, Phòng 19</item>
+        <item >Tầng 3, Phòng 20</item>
+        <item >Tầng 3, Phòng 21</item>
+        <item >Tầng 3, Phòng 22</item>
+        <item >Tầng 3, Phòng 23</item>
+        <item >Tầng 3, Phòng 24</item>
+        <item >Tầng 3, Phòng 25</item>
+        <item >Tầng 3, Phòng 26</item>
+        <item >Tầng 3, Phòng 27</item>
+        <item >Tầng 3, Phòng 28</item>
+        <item >Tầng 3, Phòng 29</item>
+        <item >Tầng 3, Phòng 30</item>
+        <item >Tầng 4, Phòng 1</item>
+        <item >Tầng 4, Phòng 2</item>
+        <item >Tầng 4, Phòng 3</item>
+        <item >Tầng 4, Phòng 4</item>
+        <item >Tầng 4, Phòng 5</item>
+        <item >Tầng 4, Phòng 6</item>
+        <item >Tầng 4, Phòng 7</item>
+        <item >Tầng 4, Phòng 8</item>
+        <item >Tầng 4, Phòng 9</item>
+        <item >Tầng 4, Phòng 10</item>
+        <item >Tầng 4, Phòng 11</item>
+        <item >Tầng 4, Phòng 12</item>
+        <item >Tầng 4, Phòng 13</item>
+        <item >Tầng 4, Phòng 14</item>
+        <item >Tầng 4, Phòng 15</item>
+        <item >Tầng 4, Phòng 16</item>
+        <item >Tầng 4, Phòng 17</item>
+        <item >Tầng 4, Phòng 18</item>
+        <item >Tầng 4, Phòng 19</item>
+        <item >Tầng 4, Phòng 20</item>
+        <item >Tầng 4, Phòng 21</item>
+        <item >Tầng 4, Phòng 22</item>
+        <item >Tầng 4, Phòng 23</item>
+        <item >Tầng 4, Phòng 24</item>
+        <item >Tầng 4, Phòng 25</item>
+        <item >Tầng 4, Phòng 26</item>
+        <item >Tầng 4, Phòng 27</item>
+        <item >Tầng 4, Phòng 28</item>
+        <item >Tầng 4, Phòng 29</item>
+        <item >Tầng 4, Phòng 30</item>
+        <item >Tầng 5, Phòng 1</item>
+        <item >Tầng 5, Phòng 2</item>
+        <item >Tầng 5, Phòng 3</item>
+        <item >Tầng 5, Phòng 4</item>
+        <item >Tầng 5, Phòng 5</item>
+        <item >Tầng 5, Phòng 6</item>
+        <item >Tầng 5, Phòng 7</item>
+        <item >Tầng 5, Phòng 8</item>
+        <item >Tầng 5, Phòng 9</item>
+        <item >Tầng 5, Phòng 10</item>
+        <item >Tầng 5, Phòng 11</item>
+        <item >Tầng 5, Phòng 12</item>
+        <item >Tầng 5, Phòng 13</item>
+        <item >Tầng 5, Phòng 14</item>
+        <item >Tầng 5, Phòng 15</item>
+        <item >Tầng 5, Phòng 16</item>
+        <item >Tầng 5, Phòng 17</item>
+        <item >Tầng 5, Phòng 18</item>
+        <item >Tầng 5, Phòng 19</item>
+        <item >Tầng 5, Phòng 20</item>
+        <item >Tầng 5, Phòng 21</item>
+        <item >Tầng 5, Phòng 22</item>
+        <item >Tầng 5, Phòng 23</item>
+        <item >Tầng 5, Phòng 24</item>
+        <item >Tầng 5, Phòng 25</item>
+        <item >Tầng 5, Phòng 26</item>
+        <item >Tầng 5, Phòng 27</item>
+        <item >Tầng 5, Phòng 28</item>
+        <item >Tầng 5, Phòng 29</item>
+        <item >Tầng 5, Phòng 30</item>
+    </string-array>
+</resources>
